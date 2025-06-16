@@ -1,0 +1,9 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: bridge
+  1: lifted
+  2: miss
+  3: ok
